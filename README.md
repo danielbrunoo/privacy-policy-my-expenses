@@ -1,6 +1,6 @@
 # Política-de-Privacidade-do-Aplicativo-Minhas-Despesas
 
-**Última atualização: 11 de Dezembro de 2025**
+**Última atualização: 02 de Abril de 2026**
 
 Esta Política de Privacidade descreve como o **Minhas Despesas** coleta, usa e compartilha informações quando você utiliza nosso aplicativo de gerenciamento de despesas "Minhas Despesas". Ao utilizar o nosso Aplicativo, você concorda com as práticas descritas nesta Política de Privacidade.
 
@@ -95,5 +95,3 @@ Reservamo-nos o direito de alterar ou atualizar esta Política de Privacidade a 
 Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade, entre em contato conosco por meio do e-mail: **codeinnovationmail@gmail.com**.
 
 **Nota**: Esta política está alinhada com os requisitos da Google Play Console e reflete com precisão como o aplicativo coleta, usa e compartilha dados.
-
-A política agora reflete o que o app realmente faz e está alinhada com os requisitos da Google Play.
