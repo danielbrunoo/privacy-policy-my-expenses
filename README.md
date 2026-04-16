@@ -1,4 +1,4 @@
-# Política-de-Privacidade-do-Aplicativo-Minhas-Despesas
+# Política de Privacidade do Aplicativo Minhas Despesas
 
 **Última atualização: 02 de Abril de 2026**
 
