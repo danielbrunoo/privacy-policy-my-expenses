@@ -1,6 +1,6 @@
 # Política de Privacidade do Aplicativo Minhas Despesas
 
-**Última atualização: 02 de Abril de 2026**
+**Última atualização: 20 de Abril de 2026**
 
 Esta Política de Privacidade descreve como o **Minhas Despesas** coleta, usa e compartilha informações quando você utiliza nosso aplicativo de gerenciamento de despesas "Minhas Despesas". Ao utilizar o nosso Aplicativo, você concorda com as práticas descritas nesta Política de Privacidade.
 
@@ -17,7 +17,7 @@ Nosso Aplicativo utiliza o **Google AdMob** para exibir anúncios. O AdMob pode 
 - **Outros dados técnicos**: Necessários para personalização de anúncios e análise de desempenho
 
 **Finalidade**: Esses dados são coletados e compartilhados com o Google (AdMob) exclusivamente para:
-- Exibição de anúncios personalizados
+- Exibição de anúncios (incluindo, quando aplicável, anúncios personalizados)
 - Análise de desempenho dos anúncios
 - Melhoria dos serviços de publicidade
 
@@ -29,12 +29,12 @@ Nosso Aplicativo utiliza o **Google AdMob** para exibir anúncios. O AdMob pode 
 
 O Aplicativo permite que você crie e gerencie suas despesas pessoais. **Importante**: Todas as informações sobre suas despesas (nome, valor, data, status de pagamento) são armazenadas **apenas no seu dispositivo**, usando armazenamento local (SQLite).
 
-- **Não coletamos** dados financeiros pessoais
+- **Não coletamos** dados financeiros pessoais em servidores próprios
 - **Não transmitimos** suas despesas para servidores externos
 - **Não compartilhamos** suas informações financeiras com terceiros
 - **Não requeremos** criação de conta ou login
 
-Suas despesas permanecem privadas e seguras no seu dispositivo.
+Suas despesas permanecem privadas e armazenadas localmente no seu dispositivo.
 
 ## Funcionalidades do Aplicativo
 
@@ -50,14 +50,16 @@ O Aplicativo permite que os usuários criem e gerenciem despesas de forma simple
 
 ## Anúncios
 
-Nosso Aplicativo exibe anúncios por meio do **Google AdMob**, uma plataforma de anúncios da Google. 
+Nosso Aplicativo exibe anúncios por meio do **Google AdMob**, uma plataforma de anúncios da Google.
 
 O AdMob coleta informações relacionadas à sua interação com os anúncios e dados do dispositivo (conforme descrito na seção "Informações que Coletamos") para fins de:
 - Personalização de anúncios
 - Análise de desempenho
 - Otimização da experiência publicitária
 
-Para mais informações sobre como o AdMob coleta e usa dados, consulte a [Política de Privacidade do Google](https://policies.google.com/privacy) e os [Termos de Serviço do AdMob](https://support.google.com/admob/answer/6128543).
+Para mais informações sobre como o AdMob coleta e usa dados, consulte:
+- [Política de Privacidade do Google](https://policies.google.com/privacy)
+- [Termos do Google AdMob](https://support.google.com/admob/answer/6128543)
 
 ## Não Coleta de Dados Pessoais Identificáveis
 
@@ -68,7 +70,7 @@ O Aplicativo **não requer** que você forneça informações pessoais identific
 - Dados de pagamento ou cartão de crédito
 - Informações bancárias
 
-**Não coletamos, armazenamos ou compartilhamos** dados pessoais identificáveis relacionados às suas despesas ou identidade pessoal.
+**Não coletamos, armazenamos ou compartilhamos** dados pessoais identificáveis relacionados às suas despesas ou identidade pessoal em servidores próprios.
 
 ## Segurança
 
@@ -82,9 +84,16 @@ Embora o Minhas Despesas armazene seus dados financeiros apenas localmente no di
 ## Seus Direitos
 
 Você tem o direito de:
-- **Desativar anúncios personalizados**: Você pode desativar a personalização de anúncios nas configurações do seu dispositivo Android (Configurações > Google > Anúncios > Desativar personalização de anúncios)
+- **Desativar anúncios personalizados**: Você pode desativar a personalização de anúncios nas configurações do seu dispositivo Android
 - **Gerenciar seus dados**: Como todos os dados das despesas ficam no seu dispositivo, você tem controle total sobre eles
-- **Desinstalar o aplicativo**: Você pode desinstalar o aplicativo a qualquer momento, o que removerá todos os dados locais
+- **Desinstalar o aplicativo**: Você pode desinstalar o aplicativo a qualquer momento, o que removerá os dados locais do app no dispositivo
+
+## Conformidade com Políticas do Google
+
+Esta Política está alinhada com os requisitos aplicáveis de transparência e tratamento de dados para apps publicados na Google Play, incluindo:
+- [Política de Dados do Usuário da Google Play](https://support.google.com/googleplay/android-developer/answer/10144311)
+- [Central de Segurança de Dados (Google Play)](https://support.google.com/googleplay/android-developer/answer/10787469)
+- [Políticas do Google Ads e AdMob](https://support.google.com/admob/answer/6128543)
 
 ## Alterações nesta Política de Privacidade
 
@@ -94,4 +103,4 @@ Reservamo-nos o direito de alterar ou atualizar esta Política de Privacidade a 
 
 Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade, entre em contato conosco por meio do e-mail: **codeinnovationmail@gmail.com**.
 
-**Nota**: Esta política está alinhada com os requisitos da Google Play Console e reflete com precisão como o aplicativo coleta, usa e compartilha dados.
+**Nota**: Esta política reflete que os dados de despesas são armazenados localmente no dispositivo e que a exibição de anúncios utiliza serviços do Google AdMob conforme as políticas aplicáveis do Google.
