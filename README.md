@@ -1,106 +1,106 @@
-# Política de Privacidade do Aplicativo Minhas Despesas
+# Privacy Policy for My Expenses App
 
-**Última atualização: 20 de Abril de 2026**
+**Last updated: August 20, 2026**
 
-Esta Política de Privacidade descreve como o **Minhas Despesas** coleta, usa e compartilha informações quando você utiliza nosso aplicativo de gerenciamento de despesas "Minhas Despesas". Ao utilizar o nosso Aplicativo, você concorda com as práticas descritas nesta Política de Privacidade.
+This Privacy Policy describes how **My Expenses** collects, uses, and shares information when you use our expense management application, "My Expenses". By using our App, you agree to the practices described in this Privacy Policy.
 
-## Informações que Coletamos
+## Information We Collect
 
-### Dados Coletados pelo AdMob (Google Mobile Ads)
+### Data Collected by AdMob (Google Mobile Ads)
 
-Nosso Aplicativo utiliza o **Google AdMob** para exibir anúncios. O AdMob pode coletar e transmitir as seguintes informações para servidores do Google:
+Our App uses **Google AdMob** to display advertisements. AdMob may collect and transmit the following information to Google servers:
 
-- **ID do dispositivo**: Identificador de publicidade do dispositivo (Advertising ID)
-- **Localização aproximada**: Informações de localização aproximada (quando disponível)
-- **Informações do dispositivo**: Modelo, sistema operacional, versão do sistema
-- **Dados de uso**: Interações com anúncios (cliques, impressões)
-- **Outros dados técnicos**: Necessários para personalização de anúncios e análise de desempenho
+- **Device ID**: Advertising identifier of the device (Advertising ID)
+- **Approximate Location**: Approximate location information (when available)
+- **Device Information**: Model, operating system, and system version
+- **Usage Data**: Interactions with ads (clicks, impressions)
+- **Other Technical Data**: Necessary for ad personalization and performance analysis
 
-**Finalidade**: Esses dados são coletados e compartilhados com o Google (AdMob) exclusivamente para:
-- Exibição de anúncios (incluindo, quando aplicável, anúncios personalizados)
-- Análise de desempenho dos anúncios
-- Melhoria dos serviços de publicidade
+**Purpose**: This data is collected and shared with Google (AdMob) exclusively for:
+- Displaying ads (including, when applicable, personalized ads)
+- Analyzing ad performance
+- Improving advertising services
 
-**Compartilhamento**: Esses dados são compartilhados com o Google (AdMob), conforme descrito na [Política de Privacidade do Google](https://policies.google.com/privacy).
+**Sharing**: This data is shared with Google (AdMob) as described in the [Google Privacy Policy](https://policies.google.com/privacy).
 
-**Criptografia**: Os dados transmitidos pelo AdMob são criptografados em trânsito usando HTTPS.
+**Encryption**: Data transmitted by AdMob is encrypted in transit using HTTPS.
 
-### Dados das Despesas (Armazenamento Local)
+### Expense Data (Local Storage)
 
-O Aplicativo permite que você crie e gerencie suas despesas pessoais. **Importante**: Todas as informações sobre suas despesas (nome, valor, data, status de pagamento) são armazenadas **apenas no seu dispositivo**, usando armazenamento local (SQLite).
+The App allows you to create and manage your personal expenses. **Important**: All information regarding your expenses (name, amount, date, payment status) is stored **only on your device**, using local storage (SQLite).
 
-- **Não coletamos** dados financeiros pessoais em servidores próprios
-- **Não transmitimos** suas despesas para servidores externos
-- **Não compartilhamos** suas informações financeiras com terceiros
-- **Não requeremos** criação de conta ou login
+- **We do not collect** personal financial data on our own servers
+- **We do not transmit** your expenses to external servers
+- **We do not share** your financial information with third parties
+- **We do not require** account creation or login
 
-Suas despesas permanecem privadas e armazenadas localmente no seu dispositivo.
+Your expenses remain private and stored locally on your device.
 
-## Funcionalidades do Aplicativo
+## App Features
 
-O Aplicativo permite que os usuários criem e gerenciem despesas de forma simples e prática. As principais funcionalidades incluem:
+The App allows users to create and manage expenses in a simple and practical way. Key features include:
 
-- **Adicionar despesas**: O usuário pode inserir informações sobre suas despesas (nome, valor, data)
-- **Editar despesas**: O usuário pode editar as informações de uma despesa já cadastrada
-- **Marcar como pago**: O usuário pode marcar despesas como pagas ou não pagas
-- **Excluir despesas**: O usuário pode excluir despesas de sua lista
-- **Visualização por mês**: O usuário pode navegar entre diferentes meses para visualizar despesas
+- **Add expenses**: The user can input information about their expenses (name, amount, date)
+- **Edit expenses**: The user can edit details of an already registered expense
+- **Mark as paid**: The user can mark expenses as paid or unpaid
+- **Delete expenses**: The user can delete expenses from their list
+- **Monthly view**: The user can navigate across different months to view expenses
 
-**Todas essas ações são realizadas localmente no dispositivo do usuário**, e nenhum dado financeiro é enviado ou armazenado em servidores externos.
+**All of these actions are performed locally on the user's device**, and no financial data is sent to or stored on external servers.
 
-## Anúncios
+## Advertisements
 
-Nosso Aplicativo exibe anúncios por meio do **Google AdMob**, uma plataforma de anúncios da Google.
+Our App displays advertisements through **Google AdMob**, an advertising platform by Google.
 
-O AdMob coleta informações relacionadas à sua interação com os anúncios e dados do dispositivo (conforme descrito na seção "Informações que Coletamos") para fins de:
-- Personalização de anúncios
-- Análise de desempenho
-- Otimização da experiência publicitária
+AdMob collects information related to your interaction with ads and device data (as described in the "Information We Collect" section) for the purposes of:
+- Ad personalization
+- Performance analytics
+- Optimizing the advertising experience
 
-Para mais informações sobre como o AdMob coleta e usa dados, consulte:
-- [Política de Privacidade do Google](https://policies.google.com/privacy)
-- [Termos do Google AdMob](https://support.google.com/admob/answer/6128543)
+For more information on how AdMob collects and uses data, please consult:
+- [Google Privacy Policy](https://policies.google.com/privacy)
+- [Google AdMob Terms](https://support.google.com/admob/answer/6128543)
 
-## Não Coleta de Dados Pessoais Identificáveis
+## No Collection of Personally Identifiable Information
 
-O Aplicativo **não requer** que você forneça informações pessoais identificáveis como:
-- Nome completo
-- Endereço de e-mail
-- Número de telefone
-- Dados de pagamento ou cartão de crédito
-- Informações bancárias
+The App **does not require** you to provide personally identifiable information such as:
+- Full name
+- Email address
+- Phone number
+- Payment or credit card details
+- Banking information
 
-**Não coletamos, armazenamos ou compartilhamos** dados pessoais identificáveis relacionados às suas despesas ou identidade pessoal em servidores próprios.
+**We do not collect, store, or share** personally identifiable data related to your expenses or personal identity on our own servers.
 
-## Segurança
+## Security
 
-Embora o Minhas Despesas armazene seus dados financeiros apenas localmente no dispositivo, recomendamos que os usuários adotem boas práticas de segurança:
+Although My Expenses stores your financial data only locally on your device, we recommend that users follow good security practices:
 
-- Manter o dispositivo protegido com senhas, PIN ou outras formas de autenticação
-- Fazer backup regular dos dados do dispositivo
-- Manter o sistema operacional e o aplicativo atualizados
-- Não compartilhar o dispositivo com pessoas não autorizadas
+- Keep your device protected with passwords, PIN, or other authentication methods
+- Regularly back up your device data
+- Keep your operating system and the app updated
+- Do not share your device with unauthorized individuals
 
-## Seus Direitos
+## Your Rights
 
-Você tem o direito de:
-- **Desativar anúncios personalizados**: Você pode desativar a personalização de anúncios nas configurações do seu dispositivo Android
-- **Gerenciar seus dados**: Como todos os dados das despesas ficam no seu dispositivo, você tem controle total sobre eles
-- **Desinstalar o aplicativo**: Você pode desinstalar o aplicativo a qualquer momento, o que removerá os dados locais do app no dispositivo
+You have the right to:
+- **Opt out of personalized ads**: You can disable ad personalization in your Android device settings
+- **Manage your data**: Since all expense data remains on your device, you have full control over it
+- **Uninstall the app**: You can uninstall the application at any time, which will remove the app's local data from the device
 
-## Conformidade com Políticas do Google
+## Compliance with Google Policies
 
-Esta Política está alinhada com os requisitos aplicáveis de transparência e tratamento de dados para apps publicados na Google Play, incluindo:
-- [Política de Dados do Usuário da Google Play](https://support.google.com/googleplay/android-developer/answer/10144311)
-- [Central de Segurança de Dados (Google Play)](https://support.google.com/googleplay/android-developer/answer/10787469)
-- [Políticas do Google Ads e AdMob](https://support.google.com/admob/answer/6128543)
+This Policy complies with the applicable transparency and data handling requirements for apps published on Google Play, including:
+- [Google Play User Data Policy](https://support.google.com/googleplay/android-developer/answer/10144311)
+- [Google Play Data Safety Center](https://support.google.com/googleplay/android-developer/answer/10787469)
+- [Google Ads and AdMob Policies](https://support.google.com/admob/answer/6128543)
 
-## Alterações nesta Política de Privacidade
+## Changes to This Privacy Policy
 
-Reservamo-nos o direito de alterar ou atualizar esta Política de Privacidade a qualquer momento. Quando isso acontecer, a data da "Última atualização" no topo desta página será alterada. Recomendamos que você revise periodicamente esta Política para se manter informado sobre como estamos protegendo suas informações.
+We reserve the right to change or update this Privacy Policy at any time. When changes occur, the "Last updated" date at the top of this page will be revised. We recommend reviewing this Policy periodically to stay informed about how we protect your information.
 
-## Contato
+## Contact
 
-Se você tiver alguma dúvida ou preocupação sobre esta Política de Privacidade, entre em contato conosco por meio do e-mail: **codeinnovationmail@gmail.com**.
-
-**Nota**: Esta política reflete que os dados de despesas são armazenados localmente no dispositivo e que a exibição de anúncios utiliza serviços do Google AdMob conforme as políticas aplicáveis do Google.
+If you have any questions or concerns regarding this Privacy Policy, please contact us at: **codeinnovationmail@gmail.com**.
+---
+*Note: This policy reflects that expense data is stored locally on the device and that ad delivery uses Google AdMob services in accordance with applicable Google policies.*
