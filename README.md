@@ -102,5 +102,6 @@ We reserve the right to change or update this Privacy Policy at any time. When c
 ## Contact
 
 If you have any questions or concerns regarding this Privacy Policy, please contact us at: **codeinnovationmail@gmail.com**.
+
 ---
-*Note: This policy reflects that expense data is stored locally on the device and that ad delivery uses Google AdMob services in accordance with applicable Google policies.*
+*Note: This policy complies with Google Play Console requirements and accurately reflects how the application collects and processes data.*
